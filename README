@@ -1,3 +1,4 @@
+
 = jReadability
 
 This is a small helper utility (only 130 lines of code) for pepole, who're working with Natural Language Processing, 
@@ -29,3 +30,7 @@ Usage is as easy as
 
   * Run 
     % ant test
+
+== License & copyright.
+jReadabilty is licensed under Apache 2.0 license.
+Copyright 2011, Alex Petrov and other contributors.
